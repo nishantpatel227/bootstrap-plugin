@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Bootstrap CSS Plugin
+ * Author: Nishant Patel
  */
 
  function include_bootstrap(){
